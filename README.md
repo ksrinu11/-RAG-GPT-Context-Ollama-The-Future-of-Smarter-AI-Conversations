@@ -9,13 +9,17 @@ How do we give LLMs real-time knowledge and memory—without retraining them eve
 The answer? A powerful architecture that’s quietly reshaping how AI systems think:
 
 Retrieval-Augmented Generation (RAG) + GPT + Context — now optimized with Ollama.
+
 🧠 What is RAG?
+
 RAG stands for Retrieval-Augmented Generation. Instead of relying purely on a model’s internal knowledge (which may be outdated), RAG allows the AI to fetch relevant data in real-time from external sources — like documents, databases, or websites — and use that information to generate smarter, context-aware responses.
 
 Simple analogy:
+
 Imagine GPT is a brilliant writer with a great memory — but no access to the internet. RAG hands them a research assistant who fetches all the right information before the writing begins.
 
 🤖 Why Add GPT into the Mix?
+
 GPT (especially GPT-4 or GPT-4o) is currently one of the most powerful engines for reasoning, writing, and conversation. When paired with RAG, GPT becomes not just a text generator — but a deep contextual thinker.
 
 This combo allows you to:
